@@ -1,7 +1,7 @@
 ### Dokumentation und Pflichtenheft
 
 ToDo:
-- [ ] Aufgabenstellung
+- [X] Aufgabenstellung
 - [ ] Grundlegende Spielidee und Ziel
 - [ ] Konzepte und Kriterien
     - [ ] Spielkonzept
