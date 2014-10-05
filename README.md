@@ -2,9 +2,9 @@
 
 ToDo:
 - [X] Aufgabenstellung
-- [ ] Grundlegende Spielidee und Ziel
+- [X] Grundlegende Spielidee und Ziel
 - [ ] Konzepte und Kriterien
-    - [ ] Spielkonzept
+    - [X] Spielkonzept
         - [ ] Level 1 - Blutbahn
         - [ ] Level 2 - Käfer
         - [ ] Level 3 - Picknick
